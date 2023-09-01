@@ -1294,6 +1294,14 @@ section.lazy-placeholder:after {
   background-color: #232323;
   color: #ffffff;
 }
+.cid-tOuOanoNgU .mbr-section-title {
+  color: #ffffff;
+}
+.cid-tOuOanoNgU .mbr-text,
+.cid-tOuOanoNgU .mbr-section-btn,
+.cid-tOuOanoNgU .social-row {
+  color: #ffffff;
+}
 .cid-tOuPtDNvkA {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -1498,6 +1506,60 @@ section.lazy-placeholder:after {
   .cid-tOAmeaekF2 .mbr-section-btn {
     opacity: 1;
   }
+}
+.cid-tOArWjUWZh {
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background-color: #ffffff;
+}
+.cid-tOArWjUWZh .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tOArWjUWZh .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tOArWjUWZh .card-wrapper {
+  overflow: hidden;
+  background: #ffffff;
+}
+.cid-tOArWjUWZh .text-wrapper {
+  padding: 4rem 3rem;
+}
+@media (max-width: 767px) {
+  .cid-tOArWjUWZh .text-wrapper {
+    padding: 1.5rem;
+  }
+}
+.cid-tOArWjUWZh .row {
+  align-items: center;
+  margin-right: -1rem;
+  margin-left: -1rem;
+}
+.cid-tOArWjUWZh .row {
+  flex-direction: row-reverse;
+}
+.cid-tOArWjUWZh .image-wrapper {
+  padding: 0 0.75rem;
+}
+.cid-tOArWjUWZh img,
+.cid-tOArWjUWZh .image-wrapper {
+  height: 600px;
+  object-fit: cover;
+}
+.cid-tOArWjUWZh .mbr-section-title {
+  color: #000000;
+}
+.cid-tOArWjUWZh .mbr-text {
+  color: #000000;
+}
+.cid-tOArWjUWZh .price {
+  color: #ff3366;
 }
 .cid-tOuVd460Yl {
   padding-top: 6rem;
