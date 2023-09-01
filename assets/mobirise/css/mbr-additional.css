@@ -1325,10 +1325,184 @@ section.lazy-placeholder:after {
 .cid-tOuPtDNvkA .row {
   justify-content: center;
 }
+.cid-tOAnvNiRrE {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #009cff;
+}
+.cid-tOAnvNiRrE .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tOAnvNiRrE .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tOAnvNiRrE .title .num {
+  width: 100%;
+  display: block;
+}
+.cid-tOAnvNiRrE .title .card-title {
+  z-index: 1;
+}
+.cid-tOAnvNiRrE .num {
+  color: #ffffff;
+}
+.cid-tOAnvNiRrE .item-mb {
+  margin-bottom: 2rem;
+}
+@media (max-width: 767px) {
+  .cid-tOAnvNiRrE .item-mb {
+    margin-bottom: 1rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-tOAnvNiRrE * {
+    text-align: center !important;
+  }
+  .cid-tOAnvNiRrE .content-column {
+    margin-bottom: 2rem;
+  }
+}
+.cid-tOAnvNiRrE .content-head {
+  max-width: 800px;
+}
+.cid-tOAnvNiRrE .mbr-section-title,
+.cid-tOAnvNiRrE .card-box {
+  color: #ffffff;
+}
+.cid-tOAmeaekF2 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background: #edefeb;
+}
+.cid-tOAmeaekF2 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tOAmeaekF2 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tOAmeaekF2 .mbr-section-btn {
+  opacity: 0;
+  transition-delay: 0.1s;
+  z-index: 1;
+  position: relative;
+  margin: auto;
+}
+.cid-tOAmeaekF2 .content-head {
+  max-width: 800px;
+}
+.cid-tOAmeaekF2 .card1 {
+  background-image: url("../../../assets/images/352409320-1243788496279879-6948334941166126535-n-900x900.png");
+  background-size: cover;
+  background-position: center center;
+}
+.cid-tOAmeaekF2 .card1:before {
+  background: #3f76bf;
+}
+.cid-tOAmeaekF2 .card2 {
+  background-image: url("../../../assets/images/352532133-272705435171870-1371369465513123952-n-1200x1200.png");
+  background-size: cover;
+  background-position: center center;
+}
+.cid-tOAmeaekF2 .card2:before {
+  background: #009cff;
+}
+.cid-tOAmeaekF2 .card3 {
+  background-image: url("../../../assets/images/360100939-654919890000739-516077428062162201-n-750x750.jpg");
+  background-size: cover;
+  background-position: center center;
+}
+.cid-tOAmeaekF2 .card3:before {
+  background: #00b642;
+}
+.cid-tOAmeaekF2 .card4 {
+  background-image: url("../../../assets/images/team4.jpg");
+  background-size: cover;
+  background-position: center center;
+}
+.cid-tOAmeaekF2 .card4:before {
+  background: #9fe870;
+}
+.cid-tOAmeaekF2 .content-wrap {
+  margin: auto;
+  display: flex;
+  height: 100%;
+}
+.cid-tOAmeaekF2 .card-wrap {
+  border-radius: inherit;
+  height: 400px;
+  position: relative;
+  transition: all 0.3s;
+  margin-bottom: 2rem;
+}
+@media (max-width: 767px) {
+  .cid-tOAmeaekF2 .card-wrap {
+    margin-bottom: 1rem;
+  }
+}
+.cid-tOAmeaekF2 .card-wrap:before {
+  content: '';
+  position: absolute;
+  border-radius: inherit;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  transition-delay: 0.1s;
+  opacity: 0;
+}
+.cid-tOAmeaekF2 .card {
+  transition: transform .6s;
+}
+.cid-tOAmeaekF2 .card:hover .card-wrap,
+.cid-tOAmeaekF2 .card:focus-within .card-wrap {
+  transform: rotateY(180deg);
+}
+.cid-tOAmeaekF2 .card:hover .card-wrap:before,
+.cid-tOAmeaekF2 .card:focus-within .card-wrap:before {
+  opacity: 1;
+}
+.cid-tOAmeaekF2 .card:hover .mbr-section-btn,
+.cid-tOAmeaekF2 .card:focus-within .mbr-section-btn {
+  opacity: 1;
+  transform: rotateY(180deg);
+}
+@media (max-width: 767px) {
+  .cid-tOAmeaekF2 .card:hover .card-wrap {
+    transform: none;
+  }
+  .cid-tOAmeaekF2 .card:hover .card-wrap:before {
+    opacity: 0.8;
+  }
+  .cid-tOAmeaekF2 .card-wrap:before {
+    opacity: 0.8;
+  }
+  .cid-tOAmeaekF2 .card-wrap:hover {
+    transform: none;
+  }
+  .cid-tOAmeaekF2 .card-wrap:hover .mbr-section-btn {
+    transform: none;
+  }
+  .cid-tOAmeaekF2 .mbr-section-btn {
+    opacity: 1;
+  }
+}
 .cid-tOuVd460Yl {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #4479d9;
+  background-image: url("../../../assets/images/mbr-1920x1152.jpg");
 }
 .cid-tOuVd460Yl .mbr-fallback-image.disabled {
   display: none;
