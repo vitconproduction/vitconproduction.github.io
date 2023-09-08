@@ -3589,3 +3589,114 @@ section.lazy-placeholder:after {
   width: 100%;
   object-fit: cover;
 }
+.cid-tPfgaWCiyL {
+  background-image: url("../../../assets/images/tracking-code-google-analytics-1600x840.png");
+}
+.cid-tPfgaWCiyL .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tPfgaWCiyL .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tPfgaWZm2s {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-tPfgaWZm2s .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tPfgaWZm2s .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tPfgaWZm2s .item-wrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+.cid-tPfgaWZm2s .icon-box {
+  background: #ff3366;
+  width: 60px;
+  min-width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-right: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cid-tPfgaWZm2s .mbr-iconfont {
+  font-size: 2rem;
+  color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-tPfgaWZm2s .card {
+    margin-bottom: 2rem;
+  }
+  .cid-tPfgaWZm2s .card-wrapper {
+    margin-bottom: 2rem;
+  }
+  .cid-tPfgaWZm2s .item-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-tPfgaYOOrf {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #fafafa;
+}
+.cid-tPfgaYOOrf .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tPfgaYOOrf .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tPfgaYOOrf .oldcost {
+  text-decoration: line-through;
+  color: #353535;
+}
+.cid-tPfgaYOOrf .currentcost {
+  color: #ff3366;
+}
+.cid-tPfgaYOOrf .card-wrapper {
+  border-radius: 4px;
+  background: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-tPfgaYOOrf .text-box {
+    padding: 2rem;
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tPfgaYOOrf .text-box {
+    padding: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-tPfgaYOOrf .text-box {
+    padding: 1rem;
+  }
+}
+.cid-tPfgaYOOrf .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
